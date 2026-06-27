@@ -1,0 +1,36 @@
+{
+  "collections": {
+    "materials": {
+      "schema": {
+        "id": "string",
+        "title": "string",
+        "type": "string",
+        "subjectCode": "string",
+        "subjectName": "string",
+        "semester": "number",
+        "departmentId": "string",
+        "fileSize": "string",
+        "uploadDate": "string",
+        "downloadCount": "number",
+        "description": "string",
+        "pdfUrl": "string"
+      }
+    },
+    "examPapers": {
+      "schema": {
+        "id": "string",
+        "year": "number",
+        "type": "string",
+        "subjectCode": "string",
+        "subjectName": "string",
+        "semester": "number",
+        "departmentId": "string",
+        "language": "string",
+        "fileSize": "string",
+        "uploadDate": "string",
+        "isOfficial": "boolean",
+        "pdfUrl": "string"
+      }
+    }
+  }
+}

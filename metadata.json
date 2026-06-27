@@ -1,0 +1,6 @@
+{
+  "name": "GTU Study Material Hub",
+  "description": "A premium, comprehensive study material and examination portal for Gujarat Technological University (GTU) diploma engineering students, featuring syllabus, notes, question banks, and papers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
