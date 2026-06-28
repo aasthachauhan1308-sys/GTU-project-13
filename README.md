@@ -2,7 +2,7 @@
 
 ## 📖 Project Overview
 
-GTU Project 13 is an academic project developed as part of my Diploma in Information Technology curriculum. It demonstrates practical web development skills and modern application development.
+GTU Project 13 is an academic project developed as part of my Diploma in Information Technology curriculum. It demonstrates practical programming skills, modern application development, and problem-solving through a real-world project.
 
 ## 🛠️ Technologies Used
 
@@ -48,7 +48,8 @@ npm run dev
 
 ## 🌐 Live Demo
 
-Add your live demo link here (if available).
+
+https://gtu-project-13.vercel.app/.
 
 ## 📂 GitHub Repository
 
