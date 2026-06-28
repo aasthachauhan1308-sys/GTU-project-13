@@ -2,7 +2,7 @@
 
 ## 📖 Project Overview
 
-GTU Project 13 is an academic project developed as part of my Diploma in Information Technology curriculum. It demonstrates practical programming skills, modern application development, and problem-solving through a real-world project.
+GTU Project 13 is an academic project developed as part of my Diploma in Information Technology curriculum. It demonstrates practical programming skills, modern application development, and problem-solving through a real-world projec. 
 
 ## 🛠️ Technologies Used
 
