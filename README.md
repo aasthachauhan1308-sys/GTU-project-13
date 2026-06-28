@@ -15,12 +15,15 @@ GTU Project 13 is an academic project developed as part of my Diploma in Informa
 * Git
 * GitHub
 
-## ✨ Features
+✨ Features
 
-* Responsive Design
-* Modern User Interface
-* Firebase Integration
-* Fast Performance
+- Responsive Design
+- Modern User Interface
+- Subject-wise Study Materials
+- Previous Year Question Papers
+- Syllabus Access
+- Firebase Integration
+- Fast Performance
 
 ## 🚀 Run Locally
 
@@ -49,7 +52,7 @@ npm run dev
 ## 🌐 Live Demo
 
 
-https://gtu-project-13.vercel.app/.
+https://gtu-project-13.vercel.app/
 
 ## 📂 GitHub Repository
 
