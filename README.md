@@ -1,20 +1,64 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🎓 GTU Project 13
 
-# Run and deploy your AI Studio app
+## 📖 Project Overview
 
-This contains everything you need to run your app locally.
+GTU Project 13 is an academic project developed as part of my Diploma in Information Technology curriculum. It demonstrates practical web development skills and modern application development.
 
-View your app in AI Studio: https://ai.studio/apps/64e6b5fe-e826-46a0-8787-38cfab8f387e
+## 🛠️ Technologies Used
 
-## Run Locally
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* Vite
+* Firebase
+* Git
+* GitHub
 
-**Prerequisites:**  Node.js
+## ✨ Features
 
+* Responsive Design
+* Modern User Interface
+* Firebase Integration
+* Fast Performance
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Run Locally
+
+### Prerequisites
+
+* Node.js
+
+### Installation
+
+```bash
+npm install
+```
+
+Create a `.env.local` file and add your Gemini API key:
+
+```env
+GEMINI_API_KEY=YOUR_API_KEY
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## 🌐 Live Demo
+
+Add your live demo link here (if available).
+
+## 📂 GitHub Repository
+
+https://github.com/aasthachauhan1308-sys/GTU-project-13
+
+## 🤝 Connect With Me
+
+* GitHub: https://github.com/aasthachauhan1308-sys
+* LinkedIn: https://www.linkedin.com/in/aastha-chauhan-45187b330
+
+## 📄 Project Purpose
+
+This project was developed as part of my Diploma in Information Technology to improve my practical development skills and gain hands-on experience with modern web technologies.
